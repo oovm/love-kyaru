@@ -1,0 +1,10 @@
+# OS
+
+# IDE
+.vscode/
+.vs/
+.idea/
+
+# Binary
+*.psd
+*.mp4
