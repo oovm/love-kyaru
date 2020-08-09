@@ -9,3 +9,5 @@
 ![](./明日方舟/ASTESIA.png)
 
 ![](./明日方舟/REED.png)
+
+![](./明日方舟/VERMEIL.png)

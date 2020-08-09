@@ -1,3 +1,3 @@
-*.m              text diff=mathematica
-*.md             text diff=mathematica
-*.png            binary diff=arc
+*.m     binary diff=mathematica
+*.md    binary linguist-language=arc diff=text
+*.png   binary linguist-language=arc
