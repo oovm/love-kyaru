@@ -4,7 +4,7 @@
 
 ## 猫猫方舟
 
-![可露希](https://i.loli.net/2020/08/08/tY6GwcBqHgUxnuF.png)
+![](https://i.loli.net/2020/08/08/tY6GwcBqHgUxnuF.png)
 
 ![](./明日方舟/ASTESIA.png)
 
