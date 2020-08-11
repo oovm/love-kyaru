@@ -1,2 +1,2 @@
-*.m     binary diff=mathematica
-*.md    binary linguist-language=arc diff=text
+*.m     diff=mathematica
+*.md    linguist-language=arc
